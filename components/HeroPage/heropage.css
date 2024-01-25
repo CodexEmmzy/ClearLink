@@ -1,0 +1,64 @@
+.heropage {
+  background: url("../../public/image/clear-link-hero-bg.svg") center
+    center/cover no-repeat;
+  width: 100%;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 0.5);
+  padding-top: 1.8rem;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  overflow-x: hidden;
+}
+
+.hero-content {
+  display: flex;
+  justify-content: space-between;
+  width: 86%;
+  margin-top: 3rem;
+}
+
+.section1 {
+  padding-top: 20px;
+  margin-bottom: 4rem;
+}
+
+.section1 h1 {
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 3.5rem;
+  letter-spacing: -0.02em;
+  /* text-align: left; */
+  color: rgba(29, 41, 57, 1);
+  margin-bottom: 20px;
+}
+
+.section1 p {
+    color:  rgba(102, 112, 133, 1);
+    font-size: 1.1rem;
+    margin-bottom: 25px;
+}
+
+.sec1-btn {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin-bottom: 2rem;
+
+}
+.btn1 {
+    background-color: rgba(23, 92, 211, 1);
+    padding: 5px 15px;
+    border-radius: 20px;
+    color: white;
+}
+
+
+h1 {
+  color: black;
+  font-size: 2rem;
+}
+
+.parthner-sec {
+    margin-top: 3rem;
+}
